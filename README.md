@@ -1,2 +1,5 @@
 # hello-world
-Team Software Project Hello World Assignment
+
+Hello,
+
+My name is Kyle. I am a third year computer science major at Michigan Tech.
